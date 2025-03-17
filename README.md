@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Jean!</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e inovação 🚀</h3>
+<h3 align="center">Estudante do curso Técnico de Desenvolvimento de Sistemas | Apaixonado por tecnologia e inovação 🚀</h3>
 
 ---
 
